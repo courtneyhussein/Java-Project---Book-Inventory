@@ -11,7 +11,7 @@ This program demonstrates the use of encapsulation to create and access attribut
 -	**If-else statements**
 -	**Switch statements**
 -	**Lists**
--	**Scanners**
+-	Scanners
 
 Program Details:
 1. The *Book* Java class contains private attributes for the book id, book title, and book price. It passes the attributes to the constructor and uses set and get methods to provide access to the encapsulated attributes.
